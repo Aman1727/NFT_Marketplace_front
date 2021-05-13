@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://41bwgu4exg.execute-api.us-east-1.amazonaws.com/staging';
